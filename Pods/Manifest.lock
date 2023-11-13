@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - ANActivityIndicator (1.2.0)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - Kingfisher (5.15.6):
+    - Kingfisher/Core (= 5.15.6)
+  - Kingfisher/Core (5.15.6)
+  - ObjectMapper (3.5.3)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - AlamofireObjectMapper (~> 5.2)
+  - ANActivityIndicator
+  - FMDB
+  - Kingfisher
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - ANActivityIndicator
+    - FMDB
+    - Kingfisher
+    - ObjectMapper
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  ANActivityIndicator: 44a996931d0c554cf157b31056603b23bbdbe76a
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  Kingfisher: b3554e7bf6106115b44e8795300bad580ef2fdc7
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 4722ab3a70ec11bed4e094ec9ddf2e2b110567f8
+
+COCOAPODS: 1.9.3
